@@ -1,0 +1,242 @@
+{
+  "owners": [
+    1189546122,
+    8434439567,
+    8720311960,
+    8265718776,
+    8383495904,
+    8107014653,
+    8723190028,
+    "8706075594",
+    "8838775717",
+    7873833162,
+    "7198582343",
+    "8844295636",
+    "7886033456",
+    8844295636
+  ],
+  "moderators": [
+    8844295636
+  ],
+  "premium": [
+    {
+      "id": 1189546122,
+      "expiresAt": "PERMANENT"
+    },
+    {
+      "id": 7868958808,
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": 8653942610,
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": 8522761133,
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": 8434439567,
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": 8720311960,
+      "expiresAt": "PERMANENT"
+    },
+    {
+      "id": 8265718776,
+      "expiresAt": "PERMANENT"
+    },
+    {
+      "id": 8383495904,
+      "expiresAt": "2053-11-17T19:21:39.115Z",
+      "type": "manual"
+    },
+    {
+      "id": 1,
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": 5922664287,
+      "expiresAt": "2036-05-01T03:47:36.452Z",
+      "type": "manual"
+    },
+    {
+      "id": 1859766142,
+      "expiresAt": "2026-08-08T14:01:40.878Z",
+      "type": "manual"
+    },
+    {
+      "id": 8107014653,
+      "expiresAt": "PERMANENT"
+    },
+    {
+      "id": "7661687102",
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": 8329321481,
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": "7969156725",
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": 8776650123,
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": 8070195914,
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": 8723190028,
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": "7262622",
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": "8706075594",
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": "7160012211",
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": "8839273998",
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": "8431013333",
+      "expiresAt": "2026-07-27T14:00:37.409Z",
+      "type": "manual"
+    },
+    {
+      "id": "7309404295",
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": "8941362453",
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": "6837540130",
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": "8838775717",
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": "8482452874",
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": "1910392101",
+      "expiresAt": "2029-03-28T17:18:57.947Z",
+      "type": "manual"
+    },
+    {
+      "id": 7873833162,
+      "expiresAt": "PERMANENT"
+    },
+    {
+      "id": "7982649256",
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": "8597929590",
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": "2041754580",
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": "7198582343",
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": "8844295636",
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": "8889690047",
+      "expiresAt": "2026-07-23T13:58:49.879Z",
+      "type": "manual"
+    },
+    {
+      "id": "7886033456",
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": "8764548550",
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": "8630963481",
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": "8637052892",
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": "7986852099",
+      "expiresAt": "PERMANENT",
+      "type": "manual"
+    },
+    {
+      "id": "8451489396",
+      "expiresAt": "2026-07-23T11:39:34.473Z",
+      "type": "manual"
+    },
+    {
+      "id": "8476165664",
+      "expiresAt": "2026-07-23T13:38:17.421Z",
+      "type": "manual"
+    },
+    {
+      "id": "8887327355",
+      "expiresAt": "2026-07-23T16:48:30.671Z",
+      "type": "manual"
+    },
+    {
+      "id": 8844295636,
+      "expiresAt": "PERMANENT"
+    }
+  ]
+}
